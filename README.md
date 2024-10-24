@@ -12,5 +12,5 @@ Estou comprometida em aprimorar minhas habilidades nessa área.
 
 ### 📬 Contatos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/taylana-rocha-461a302a0/) <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/taylana-rocha-461a302a0/) <br>
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)](mailto:Taylana_Rocha@hotmail.com)
