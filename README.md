@@ -1,17 +1,10 @@
+<img src="leaves-7746730_1280.png" alt="Duas folhas marrons juntas" min-width="400px" max-width="400px" width="400px" align="right">
 
-# Olá! É um prazer tê-lo aqui.
+## <p align="center"> Olá! É um prazer tê-lo aqui.
 
-<table>
-  <tr>
-    <td style="padding-right: 20px;">
-      <img src="leaves-7746730_1280.png" width="150"/>
-    </td>
-    <td>
-      Meu nome é <b>Taylana</b> e sou estudante de <b>Ciência da Computação</b>. Desde cedo, sou apaixonada por design, mas ao explorar o <b>back-end</b>, descobri um novo amor por entender as nuances do desenvolvimento de software. Estou comprometida em aprimorar minhas habilidades nessa área.
-      Acredito que a tecnologia tem o poder de nos conectar, mesmo quando estamos em diferentes lugares e contextos. Com esforço e dedicação, sonho em contribuir para que essa acessibilidade se torne uma realidade concreta, não apenas uma teoria.
-    </td>
-  </tr>
-</table>
+<p align="rigth">
+Meu nome é <b>Taylana</b> e sou estudante de <b>Ciência da Computação</b>. Desde cedo, sou apaixonada por design, mas ao explorar o <b>back-end</b>, descobri um novo amor por entender as nuances do desenvolvimento de software. Estou comprometida em aprimorar minhas habilidades nessa área. Acredito que a tecnologia tem o poder de nos conectar, mesmo quando estamos em diferentes lugares e contextos. Com esforço e dedicação, sonho em contribuir para que essa acessibilidade se torne uma realidade concreta, não apenas uma teoria.
+</p>
 
 Acredito que a tecnologia tem o poder de nos conectar, mesmo quando estamos em diferentes lugares e contextos. Com esforço e dedicação, sonho em contribuir para que essa acessibilidade se torne uma realidade concreta, não apenas uma teoria.
 
