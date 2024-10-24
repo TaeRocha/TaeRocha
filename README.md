@@ -1,7 +1,12 @@
 
 # Olá! É um prazer tê-lo aqui.
 
-Meu nome é Taylana e sou estudante de Ciência da Computação. Desde jovem, tenho uma paixão pelo design, mas foi ao explorar o fascinante mundo do back-end que descobri meu verdadeiro interesse. Atualmente, estou dedicando-me ao estudo e aprimoramento das minhas habilidades para me tornar uma profissional competente nessa área.
+<div style="display: flex; align-items: center;">
+  <img src="leaves-7746730_1280.png" alt="Imagem de duas folhas marrons juntas" width="150" style="margin-right: 20px;"/>
+  <div>
+    Meu nome é **Taylana** e sou estudante de **Ciência da Computação**. Desde cedo, sou apaixonada por design, mas ao explorar o **back-end**, descobri um novo amor por entender as nuances do desenvolvimento de software. Estou comprometida em aprimorar minhas habilidades nessa área.
+  </div>
+</div>
 
 Acredito que a tecnologia tem o poder de nos conectar, mesmo quando estamos em diferentes lugares e contextos. Com esforço e dedicação, sonho em contribuir para que essa acessibilidade se torne uma realidade concreta, não apenas uma teoria.
 
